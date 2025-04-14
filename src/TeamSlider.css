@@ -1,0 +1,75 @@
+/* LeadershipCard.css */
+
+.leadership-card {
+  
+    width: 350px;
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position:relative;
+    overflow:hidden;
+    cursor: pointer;
+    filter: blur(1.0px);
+    transition: filter 0.5s ease-in-out, transform 0.1s ease-in-out;
+    border-radius: 10px;
+    margin: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 8px 24px rgba(0, 0, 0, 0.2);
+  }
+  
+  .leadership-card:hover  {
+    background-color: rgba(255, 236, 221, 0.5);
+    filter: blur(0);
+    transform: scale(10.1);
+    
+  }
+  .card-content :hover{
+    text-align: center;
+    color: rgb(255, 234, 0);
+  }
+  .card-content {
+    margin-top: 250PX;
+    text-align: center;
+    color: white;
+  }
+
+  
+  .card-content h3 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+  }
+  
+  .card-content p {
+    font-size: 1.2rem;
+  }
+  .leadership-slider
+  {
+    display:inline-flex;
+    margin-top: 100px;
+    margin-left: 280px;
+
+  }
+  
+  .Container
+  {
+
+    background-image: url('./image/BG-EMPTY.png');
+    background-size: cover;
+    background-position: center;
+    width: 2030px;
+    height: 1080px;
+    margin-left: -715px;
+    margin-top: -1200px;
+    
+  }
+  .Container h1
+  {
+    padding-top: 200px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 50px;
+    color: azure;
+    text-align: center;
+  }

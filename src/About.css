@@ -1,0 +1,136 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,400;0,600;1,300&family=Montserrat:wght@200;300;500;600;700&family=Poppins:wght@600;900&display=swap");
+
+.AboutContainer
+{ 
+    top: 0;
+    left: 0;
+    position: absolute;
+    margin: 0;
+    width: 2020px;
+    height: 1600px;
+    background-color: rgb(29, 29, 29);
+    z-index: -1;
+}
+.AboutUs
+{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    color: white;
+    letter-spacing: 2px;
+    text-align: center;
+    margin-top: 350px;
+    margin-bottom: 30px;
+}
+
+.Guardify
+{
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 45px;
+    color: rgb(255, 222, 73);
+    text-align: center;
+    margin-bottom: 30px;
+}
+.GetKnow
+{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    color: white;
+    letter-spacing: 2px;
+    text-align: center;
+}
+.WhoAre
+{
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    margin-top: 200px;
+    margin-left: 150px;
+    margin-bottom: 30px;
+}
+
+.Detail
+{
+    width: 800px;
+    margin-left: 150px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    font-style: light;
+    color: white;
+}
+.Team
+{
+    margin-top: 1200px;
+    margin-left: 705px;
+}
+
+img
+{
+    position: absolute;
+    margin-top: -710px;
+    margin-left: 1150px;
+    width: 700px;
+}
+
+
+.MV
+{
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(255, 241, 228);
+    background-size: cover;
+    margin-top: 140px;
+    height: 400px;
+
+}
+.MV h1
+{
+    margin-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+
+.box1
+{   
+    width: 130px;
+    height: 5px;
+    background-color: #000000; /* Blue color, you can change it */
+    color: #fff; /* Optional: Text color */
+    margin-bottom: 10px;
+}
+.box2
+{   
+    width: 130px;
+    height: 5px;
+    background-color: rgb(255, 222, 73);; /* Blue color, you can change it */
+    color: #fff; /* Optional: Text color */
+    margin-bottom: 10px;
+}
+.MV p
+{
+    font-family: 'Montserrat', sans-serif;
+    width: 700px;
+    font-size: 20px;
+}
+.Mission
+{
+    background-color:#131313;
+    position: absolute;
+    right: 0%;
+    color: rgb(255, 222, 73);
+    margin-right: 150px;
+    margin-top: 100px;
+    padding: 40px;
+}
+.Vision
+{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 150px;
+}

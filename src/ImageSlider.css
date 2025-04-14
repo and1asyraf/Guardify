@@ -1,0 +1,14 @@
+/* Slider.css */
+.slider-container {
+
+    margin: 0 auto;
+    overflow: hidden;
+
+  }
+  
+  .slider-container img {
+    width: 600px;
+    height: 400px;
+    transition: transform 0.5s ease-in-out;
+  }
+  
