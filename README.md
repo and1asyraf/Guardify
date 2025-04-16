@@ -1,4 +1,4 @@
-![Guardify Logo](src/image/logo.png)
+![Guardify Logo](docs/image/logo.png)
 
 # 🚨 Guardify
 
